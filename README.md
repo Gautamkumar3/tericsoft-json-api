@@ -1,0 +1,1 @@
+# tericsoft-json-api
