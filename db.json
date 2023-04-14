@@ -1,5 +1,5 @@
 {
-  "cycling": [
+  "Cycling": [
     {
       "type": "BMX",
       "name": "BMX Race",
@@ -61,7 +61,7 @@
       "image_url": "https://images.unsplash.com/photo-1444491741275-3747c53c99b4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y3ljbGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"
     }
   ],
-  "armory": [
+  "Armoury": [
     {
       "type": "recurve",
       "name": "Recurve Bow",
@@ -123,7 +123,7 @@
       "image_url": "https://images.unsplash.com/photo-1566794780148-b33a93a7fb14?ixlib=rb-4.0.3&ixid=MnwxMjA3f"
     }
   ],
-  "aquatics": [
+  "Aquatics": [
     {
       "type": "Butterfly",
       "name": "Monarch",
@@ -185,7 +185,7 @@
       "image_url": "https://images.unsplash.com/photo-1601756548722-d56901b6f0fb?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YnV0dGVyZmx5JTIwc3dpbWluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"
     }
   ],
-  "golf": [
+  "Golf": [
     {
       "type": "Stroke Play",
       "name": "Classic Stroke Play",
@@ -247,7 +247,7 @@
       "image_url": "https://images.unsplash.com/photo-1536165396465-6ebd4a82c39e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGdvbGYlMjBjcm9zcyUyMGluJTIwYmFyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60"
     }
   ],
-  "gymnastics": [
+  "Gymnastics": [
     {
       "type": "trampoline",
       "name": "Trampoline Tumbler",
