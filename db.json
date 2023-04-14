@@ -63,63 +63,63 @@
   ],
   "Armoury": [
     {
-      "type": "recurve",
+      "type": "Recurve",
       "name": "Recurve Bow",
-      "description": "A recurve bow is a type of bow that curves away from the archer when unstrung. It is a popular choice for archery competitions.",
+      "description": "A Recurve bow is a type of bow that curves away from the archer when unstrung. It is a popular choice for archery competitions.",
       "image_url": "https://images.unsplash.com/photo-1664304724138-7ee9e65cfa14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Ym93JTIwYXJyb3d8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
     },
     {
-      "type": "recurve",
+      "type": "Recurve",
       "name": "Takedown Recurve Bow",
-      "description": "A takedown recurve bow is a recurve bow that can be disassembled for ease of storage and transportation.",
+      "description": "A takedown Recurve bow is a Recurve bow that can be disassembled for ease of storage and transportation.",
       "image_url": "https://images.unsplash.com/photo-1589827267754-44b89c57822f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGFraW5kb3dlbiUyMHJlY3VydmUlMjBib3d8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
     },
     {
-      "type": "recurve",
+      "type": "Recurve",
       "name": "Horsebow",
-      "description": "A horsebow is a recurve bow that is designed for mounted archery. It is shorter than a traditional recurve bow, making it easier to maneuver from horseback.",
+      "description": "A horsebow is a Recurve bow that is designed for mounted archery. It is shorter than a traditional Recurve bow, making it easier to maneuver from horseback.",
       "image_url": "https://images.unsplash.com/photo-1525625870058-48e7cb78633f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aG9yc2Vib3clMjBiYXd8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
     },
     {
-      "type": "compound",
+      "type": "Compound",
       "name": "Compound Bow",
-      "description": "A compound bow is a modern bow that uses a system of pulleys and cables to reduce the amount of force required to hold the bowstring at full draw.",
+      "description": "A Compound bow is a modern bow that uses a system of pulleys and cables to reduce the amount of force required to hold the bowstring at full draw.",
       "image_url": "https://images.unsplash.com/photo-1510925758641-869d353cecc7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym93JTIwYXJyb3d8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
     },
     {
-      "type": "compound",
+      "type": "Compound",
       "name": "Crossbow",
       "description": "A crossbow is a type of bow that uses a horizontal limb assembly mounted on a stock to shoot projectiles, typically bolts.",
       "image_url": "https://images.unsplash.com/photo-1542628959-0f0a5e8e8466?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x"
     },
     {
-      "type": "recurve",
+      "type": "Recurve",
       "name": "Samick Sage",
-      "description": "The Samick Sage is a popular recurve bow for beginners and experienced archers alike. Its takedown design makes it easy to transport and customize with different limbs.",
+      "description": "The Samick Sage is a popular Recurve bow for beginners and experienced archers alike. Its takedown design makes it easy to transport and customize with different limbs.",
       "image_url": "https://images.unsplash.com/photo-1664304724138-7ee9e65cfa14?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Ym93JTIwYXJyb3d8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
     },
     {
-      "type": "recurve",
+      "type": "Recurve",
       "name": "Bear Archery Super Kodiak",
-      "description": "The Bear Archery Super Kodiak is a classic recurve bow that has been used by hunters and competitive archers for decades. Its high-quality construction and smooth draw make it a pleasure to shoot.",
+      "description": "The Bear Archery Super Kodiak is a classic Recurve bow that has been used by hunters and competitive archers for decades. Its high-quality construction and smooth draw make it a pleasure to shoot.",
       "image_url": "https://images.unsplash.com/photo-1617565570383-7bb953c9132c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Ym93JTIwYXJyb3d8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
     },
     {
-      "type": "recurve",
+      "type": "Recurve",
       "name": "PSE Archery Nighthawk",
-      "description": "The PSE Archery Nighthawk is a versatile recurve bow that can be used for target shooting, hunting, or just having fun. Its slim design and comfortable grip make it easy to handle.",
+      "description": "The PSE Archery Nighthawk is a versatile Recurve bow that can be used for target shooting, hunting, or just having fun. Its slim design and comfortable grip make it easy to handle.",
       "image_url": "https://images.unsplash.com/photo-1600344303192-d684ab2565d5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGJvd3olMjBhcnJvd3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"
     },
     {
-      "type": "compound",
+      "type": "Compound",
       "name": "Mathews Triax",
-      "description": "The Mathews Triax is a top-of-the-line compound bow that features smooth, quiet performance and advanced technology like the Crosscentric Cam system.",
+      "description": "The Mathews Triax is a top-of-the-line Compound bow that features smooth, quiet performance and advanced technology like the Crosscentric Cam system.",
       "image_url": "https://images.unsplash.com/photo-1510925758641-869d353cecc7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym93JTIwYXJyb3d8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
     },
     {
-      "type": "compound",
+      "type": "Compound",
       "name": "Hoyt Carbon RX-4",
-      "description": "The Hoyt Carbon RX-4 is a lightweight and fast compound bow that features a carbon riser and advanced vibration dampening technology.",
+      "description": "The Hoyt Carbon RX-4 is a lightweight and fast Compound bow that features a carbon riser and advanced vibration dampening technology.",
       "image_url": "https://images.unsplash.com/photo-1566794780148-b33a93a7fb14?ixlib=rb-4.0.3&ixid=MnwxMjA3f"
     }
   ],
@@ -249,65 +249,65 @@
   ],
   "Gymnastic": [
     {
-      "type": "trampoline",
+      "type": "Trampoline",
       "name": "Trampoline Tumbler",
-      "description": "Bounce to new heights with the Trampoline Tumbler! This trampoline is perfect for acrobatic stunts and tricks.",
+      "description": "Bounce to new heights with the Trampoline Tumbler! This Trampoline is perfect for acrobatic stunts and tricks.",
       "image_url": "https://images.unsplash.com/photo-1577702310329-f7293ba86b58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHRyYW1wb2xpbmUlMjBneW1uYXN0aWNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60"
     },
     {
-      "type": "artistic",
+      "type": "Artistic",
       "name": "Artistic Gymnast",
       "description": "Graceful and elegant, the Artistic Gymnast performs breathtaking routines on the balance beam, uneven bars, and floor.",
       "image_url": "https://images.unsplash.com/photo-1610409843312-15907e5151ee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8YXJ0aXN0aWMlMjBneW1uYXN0aWNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60"
     },
     {
-      "type": "rhythmic",
+      "type": "Rhythmic",
       "name": "Rhythmic Gymnast",
       "description": "The Rhythmic Gymnast combines dance and gymnastics with the use of ribbons, hoops, balls, and clubs to create a stunning performance.",
       "image_url": "https://plus.unsplash.com/premium_photo-1664304799940-7bb2e8b041fd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmh5dGhtaWMlMjBneW1uYXN0aWNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60"
     },
     {
-      "type": "trampoline",
+      "type": "Trampoline",
       "name": "Trampoline Champion",
       "description": "Jump, flip, and twist your way to victory with the Trampoline Champion! Show off your skills and earn the gold medal.",
       "image_url": "https://images.unsplash.com/photo-1542193147-22e228a53a1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dHJhbXBvbGluZSUyMGd5bW5hc3RpY3N8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
     },
     {
-      "type": "trampoline",
+      "type": "Trampoline",
       "name": "High Flyer",
-      "description": "Experience the thrill of flying with our High Flyer trampoline!",
+      "description": "Experience the thrill of flying with our High Flyer Trampoline!",
       "image_url": "https://images.unsplash.com/photo-1577702310329-f7293ba86b58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHRyYW1wb2xpbmUlMjBneW1uYXN0aWNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60"
     },
     {
-      "type": "artistic",
+      "type": "Artistic",
       "name": "Graceful Dancer",
-      "description": "Unleash your inner dancer with our Graceful Dancer artistic gymnastics equipment!",
+      "description": "Unleash your inner dancer with our Graceful Dancer Artistic gymnastics equipment!",
       "image_url": "https://images.unsplash.com/photo-1610409843312-15907e5151ee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8YXJ0aXN0aWMlMjBneW1uYXN0aWNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60"
     },
     {
-      "type": "rhythmic",
+      "type": "Rhythmic",
       "name": "Twirling Ribbon",
-      "description": "Bring elegance and rhythm to your performance with our Twirling Ribbon rhythmic gymnastics ribbon!",
+      "description": "Bring elegance and rhythm to your performance with our Twirling Ribbon Rhythmic gymnastics ribbon!",
       "image_url": "https://plus.unsplash.com/premium_photo-1664304799940-7bb2e8b041fd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmh5dGhtaWMlMjBneW1uYXN0aWNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60"
     },
     {
-      "type": "trampoline",
+      "type": "Trampoline",
       "name": "Sky Bouncer",
-      "description": "Bounce higher than ever before with our Sky Bouncer trampoline!",
+      "description": "Bounce higher than ever before with our Sky Bouncer Trampoline!",
       "image_url": "https://images.unsplash.com/photo-1592868883254-246de4a0d4c8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8dHJhbXBvbGluZSUyMGd5bW5hc3RpY3N8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
     },
     {
-      "type": "artistic",
+      "type": "Artistic",
       "name": "Vaulting Hero",
-      "description": "Reach new heights with our Vaulting Hero artistic gymnastics vaulting table!",
+      "description": "Reach new heights with our Vaulting Hero Artistic gymnastics vaulting table!",
       "image_url": "https://images.unsplash.com/photo-1547658718-98beab2ca2ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fGFydGlzdGljJTIwZ3ltbmFzdGljc3xlbnwwfHww"
     }
   ],
   "Featured": [
     {
-      "type": "trampoline",
+      "type": "Trampoline",
       "name": "Sky Bouncer",
-      "description": "Bounce higher than ever before with our Sky Bouncer trampoline!",
+      "description": "Bounce higher than ever before with our Sky Bouncer Trampoline!",
       "image_url": "https://images.unsplash.com/photo-1592868883254-246de4a0d4c8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8dHJhbXBvbGluZSUyMGd5bW5hc3RpY3N8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
     },
     {
